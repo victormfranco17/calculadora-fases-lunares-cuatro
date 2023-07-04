@@ -1,0 +1,41 @@
+body {
+    background-color: #d15b8c;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    width: 300px;
+    margin: 50px auto;
+    border: 5px solid #ad0dd9;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .title {
+    font-size: 24px;
+    color: #7a0459;
+  }
+
+  .moon {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 10px auto;
+    background-image: radial-gradient(circle at 50% 50%, #a157ae, #c30b80);
+  }
+
+  .date {
+    font-size: 18px;
+    color: #000000;
+  }
+
+  .phase {
+    font-size: 18px;
+    color: #97055f;
+  }
+
+  .advice {
+    font-size: 18px;
+    color: #000000;
+  }
